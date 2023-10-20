@@ -1,0 +1,8 @@
+src
+app/
+assets/
+environments/
+index.html
+main.ts
+angular.json
+package.json
